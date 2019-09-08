@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-seasonDemo/static/css/main.f1380abb.chunk.css",
+    "main.js": "/react-seasonDemo/static/js/main.20b87bd1.chunk.js",
+    "main.js.map": "/react-seasonDemo/static/js/main.20b87bd1.chunk.js.map",
+    "runtime~main.js": "/react-seasonDemo/static/js/runtime~main.fa3a3878.js",
+    "runtime~main.js.map": "/react-seasonDemo/static/js/runtime~main.fa3a3878.js.map",
+    "static/js/2.86d3105e.chunk.js": "/react-seasonDemo/static/js/2.86d3105e.chunk.js",
+    "static/js/2.86d3105e.chunk.js.map": "/react-seasonDemo/static/js/2.86d3105e.chunk.js.map",
+    "index.html": "/react-seasonDemo/index.html",
+    "precache-manifest.1605fbf54cdf0f59ff3792a206682b5c.js": "/react-seasonDemo/precache-manifest.1605fbf54cdf0f59ff3792a206682b5c.js",
+    "service-worker.js": "/react-seasonDemo/service-worker.js",
+    "static/css/main.f1380abb.chunk.css.map": "/react-seasonDemo/static/css/main.f1380abb.chunk.css.map"
+  }
+}
